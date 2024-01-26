@@ -1,0 +1,24 @@
+Merhaba,
+
+Bu proje bir ATM banka simulasyonunu içermektedir.
+
+1. Projeyi İndirme:
+   - Bu projeyi ilgili kaynaktan indirin (Apache NetBeans vb.).
+
+2. Veritabanı Kurulumu:
+   - "atm_bank.sql" dosyasını kullanarak veritabanınızı oluşturun.
+
+3. Apache NetBeans İle Açma:
+   - Apache NetBeans'ı açın.
+   - "File" -> "Open Project" seçeneğini kullanarak projenizin bulunduğu klasörü seçin.
+
+4. Proje Ayarları:
+   - "src/database/DbConnection" dosyasını açın.
+   - Veritabanı bağlantı bilgilerini kendi veritabanı bilgilerinizle güncelleyin.
+
+5. Uygulamayı Çalıştırma:
+   - "src/gui/giris_ekrani" dosyasını açın.
+   - "giris_ekrani" formunu bulun.
+   - "Run" seçeneğini kullanarak veya "Shift + F6" tuşları ile uygulamayı başlatın.
+
+
